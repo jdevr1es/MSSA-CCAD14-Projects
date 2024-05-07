@@ -1,5 +1,4 @@
-﻿// Convert to int
-Console.WriteLine("Please enter your choice from the menu");
+﻿Console.WriteLine("Please enter your choice from the menu");
 Console.WriteLine("Enter A for Add");
 Console.WriteLine("Enter S for Subtract");
 Console.WriteLine("Enter M for Multiply");
